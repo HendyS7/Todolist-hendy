@@ -119,5 +119,6 @@ src/
 
 ## Link Vercel
 
-- https://todolist-hendy-salim-bwo8po2xx-hendysalim8-8875s-projects.vercel.app/](https://todolist-hendy-salim-4b9okl111-hendysalim8-8875s-projects.vercel.app/)
+- https://todolist-hendy-salim-4b9okl111-hendysalim8-8875s-projects.vercel.app/
+
 
